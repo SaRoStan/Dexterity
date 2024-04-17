@@ -7,9 +7,6 @@ It is hand processed and inspected under the microscope. The processing is done 
 
 
 ## Pictures of the parts for reference 
-
-<p style="text-align: center;">I have processed tens of thousands of parts</p>
-
 I have processed tens of thousands of parts
 
 <img src="https://github.com/SaRoStan/Dexterity/assets/97470253/a13b3ca9-72d7-4619-8283-453d71f4eb71" width="400" ><img src="https://github.com/SaRoStan/Dexterity/assets/97470253/0846f42d-f27c-4210-b564-97bdf8d2ca3f" width="400" >
