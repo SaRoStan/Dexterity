@@ -1,16 +1,16 @@
-# Dexterity
-This is a website to briefly show my dexterity under a microsocope. 
+# Hello!
 
-## This part is >1cm and made from fine plastic. 
+This webpage was made by Sarah Rose Stanley  
+feel free to contact me at Sarahstan824@gmail.com
+
+$${\color{lightblue}You\space can\space zoom\space into\space the\space pictures\space to\space see\space all\space of\space the\space details\space and\space burrs\space}$$
+
+## This part is <1cm and made from soft plastic. 
 
 It is hand processed and inspected under the microscope. The processing is done with small fine blades and scalpels. During this process the part cannot be cut or scratched.  There are 3 other variations of this part that are the same size. I have processed these (and other) parts for 3+ years. 
 
 ### Pictures of the parts for reference 
 I have processed tens of thousands of parts
-
-$${\color{lightblue}You\space can\space zoom\space into\space the\space pictures\space to\space see\space all\space of\space the\space details\space and\space burrs\space}$$
-
-*You can zoom into the pictures to see all of the details and burrs*
 
 <img src="https://github.com/SaRoStan/Dexterity/assets/97470253/a13b3ca9-72d7-4619-8283-453d71f4eb71" width="250" ><img src="https://github.com/SaRoStan/Dexterity/assets/97470253/0846f42d-f27c-4210-b564-97bdf8d2ca3f" width="250" >
 
