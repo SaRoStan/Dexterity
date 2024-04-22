@@ -20,6 +20,8 @@ This is what I see when I process the parts.
 <img src="https://github.com/SaRoStan/Dexterity/assets/97470253/c4ad2a37-a11a-44ad-9e63-a2ec6f4a39be" width="250" ><img src="https://github.com/SaRoStan/Dexterity/assets/97470253/e7e260ff-f1a4-4b80-b7ce-74fa3d28f2bb" width="250" >
 
 #### This is a link to a vide of the deburring process of this part. 
+[[This is a link to a video of me deburring the part]](https://photos.app.goo.gl/ayHZ6EbaNU6G4ZuA6 )
+
 https://photos.app.goo.gl/ayHZ6EbaNU6G4ZuA6 
 
 ### Here is a picture after the process 
