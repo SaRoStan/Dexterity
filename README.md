@@ -8,6 +8,10 @@ It is hand processed and inspected under the microscope. The processing is done 
 ### Pictures of the parts for reference 
 I have processed tens of thousands of parts
 
+$${\color{lightblue}You\space can\space zoom\space into\space the\space pictures\space to\space see\space all\space of\space the\space details\space and\space burrs\space}$$
+
+*You can zoom into the pictures to see all of the details and burrs*
+
 <img src="https://github.com/SaRoStan/Dexterity/assets/97470253/a13b3ca9-72d7-4619-8283-453d71f4eb71" width="250" ><img src="https://github.com/SaRoStan/Dexterity/assets/97470253/0846f42d-f27c-4210-b564-97bdf8d2ca3f" width="250" >
 
 ### Picture of the parts under the microsocpe 
@@ -18,7 +22,6 @@ This is what I see when I process the parts.
 #### This is a link to a vide of the deburring process of this part. 
 https://photos.app.goo.gl/ayHZ6EbaNU6G4ZuA6 
 
-### Here is a before and after picture 
-
-
+### Here is a picture after the process 
+<img src="https://github.com/SaRoStan/Dexterity/assets/97470253/89cea31d-5a95-41b1-aa85-55a2e54d1f66" width="400" >
 
