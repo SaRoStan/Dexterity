@@ -8,10 +8,17 @@ It is hand processed and inspected under the microscope. The processing is done 
 ### Pictures of the parts for reference 
 I have processed tens of thousands of parts
 
-<img src="https://github.com/SaRoStan/Dexterity/assets/97470253/a13b3ca9-72d7-4619-8283-453d71f4eb71" width="400" ><img src="https://github.com/SaRoStan/Dexterity/assets/97470253/0846f42d-f27c-4210-b564-97bdf8d2ca3f" width="400" >
+<img src="https://github.com/SaRoStan/Dexterity/assets/97470253/a13b3ca9-72d7-4619-8283-453d71f4eb71" width="250" ><img src="https://github.com/SaRoStan/Dexterity/assets/97470253/0846f42d-f27c-4210-b564-97bdf8d2ca3f" width="250" >
 
 ### Picture of the parts under the microsocpe 
 This is what I see when I process the parts.
 
-<img src="https://github.com/SaRoStan/Dexterity/assets/97470253/c4ad2a37-a11a-44ad-9e63-a2ec6f4a39be" width="400" ><img src="https://github.com/SaRoStan/Dexterity/assets/97470253/e7e260ff-f1a4-4b80-b7ce-74fa3d28f2bb" width="400" >
+<img src="https://github.com/SaRoStan/Dexterity/assets/97470253/c4ad2a37-a11a-44ad-9e63-a2ec6f4a39be" width="250" ><img src="https://github.com/SaRoStan/Dexterity/assets/97470253/e7e260ff-f1a4-4b80-b7ce-74fa3d28f2bb" width="250" >
+
+#### This is a link to a vide of the deburring process of this part. 
+https://photos.app.goo.gl/ayHZ6EbaNU6G4ZuA6 
+
+### Here is a before and after picture 
+
+
 
