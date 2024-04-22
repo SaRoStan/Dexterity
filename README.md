@@ -1,6 +1,3 @@
-# Dexterity
-This is a Landing page to briefly show my Dexterity. Specifically under a microscope. 
-
 ## This part is >1cm and made from fine plastic. 
 
 It is hand processed and inspected under the microscope. The processing is done with small fine blades and scalpels. During this process the part cannot be cut or scratched.  There are 3 other variations of this part that are the same size. I have processed these (and other) parts for 3+ years. 
