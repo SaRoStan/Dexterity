@@ -3,7 +3,9 @@
 This webpage was made by Sarah Rose Stanley  
 feel free to contact me at Sarahstan824@gmail.com
 
-$${\color{lightblue}You\space can\space zoom\space into\space the\space pictures\space to\space see\space all\space of\space the\space details\space and\space burrs\space}$$
+$${\color{lightblue}You \space can \space zoom \space into \space the \space pictures \space to \space see \space all \space of \space the \space details \space and \space burrs}$$
+
+$${\color{lightblue}Light \space Blue}$$
 
 ## This part is <1cm and made from soft plastic. 
 
